@@ -1,0 +1,12 @@
+#PROGRAM
+	SET $A 0
+	SET $B 0
+LABEL	SLEEP 2
+	DOWN $mtx
+	LOAD $A $Gvar
+	ADD $A $A 1
+	ADD $B $B 1
+	PRINT "$A IS: " $A $argv[0]
+	STORE $Gvar $A
+	UP $mtx
+	BRLT $B 10 LABEL

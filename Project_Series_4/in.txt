@@ -1,0 +1,3 @@
+#PROGRAM
+	STORE $Gvar 0
+	STORE $mtx 1
