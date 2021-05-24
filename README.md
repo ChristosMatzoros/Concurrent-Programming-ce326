@@ -22,8 +22,8 @@
   > Moreover, we extended the execution environment in order to support multithreading. We also implemented semaphores, so that multiple programs running concurrently can be synchronized.
   > 
 Created by:
-[Akis Giannoukos]
-[Christos Matzoros]
+- [Akis Giannoukos]
+- [Christos Matzoros]
 
 
    [Concurrent Programming - CE326]: <https://www.e-ce.uth.gr/studies/undergraduate/courses/ece321/?lang=en/>
