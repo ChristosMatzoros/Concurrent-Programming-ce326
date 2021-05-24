@@ -13,7 +13,7 @@
   > - the Single-Lane Bridge Problem
   > - the Roller Coaster Problem
 - Project3
-  > We implemented a Conditional Critical Regions (CCR) library using [pthread mutexes] and [pthread conditional variables].
+  > We implemented a Conditional Critical Regions (CCR) library using [pthread mutexes] and [pthread condition variables].
   > Then, we reassessed the three synchronization problems from Project2 using:
   > - pthread conditional variables
   > - our CCR library 
@@ -32,7 +32,7 @@ Created by:
 
    [Concurrent Programming - CE326]: <https://www.e-ce.uth.gr/studies/undergraduate/courses/ece321/?lang=en/>
    [pthread mutexes]: <https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/>
-   [pthread conditional variables]: <https://www.geeksforgeeks.org/condition-wait-signal-multi-threading/>
+   [pthread condition variables]: <https://www.geeksforgeeks.org/condition-wait-signal-multi-threading/>
    [Mandelbrot set]: <https://en.wikipedia.org/wiki/Mandelbrot_set>
    [Quicksort]: <https://en.wikipedia.org/wiki/Quicksort>
    [Christos Matzoros]: <https://www.linkedin.com/in/matzoros-christos>
