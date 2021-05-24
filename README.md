@@ -36,5 +36,5 @@ Created by:
    [pthread conditional variables]: <https://www.geeksforgeeks.org/condition-wait-signal-multi-threading/>
    [Mandelbrot set]: <https://en.wikipedia.org/wiki/Mandelbrot_set>
    [Quicksort]: <https://en.wikipedia.org/wiki/Quicksort>
-   [Christos Matzoros]: <www.linkedin.com/in/matzoros-christos>
-   [Akis Giannoukos]: <www.linkedin.com/in/akisgiannoukos>
+   #[Christos Matzoros]: <www.linkedin.com/in/matzoros-christos>
+   #[Akis Giannoukos]: <www.linkedin.com/in/akisgiannoukos>
