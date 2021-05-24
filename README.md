@@ -27,6 +27,7 @@
 Created by:
 - [Christos Matzoros]
 - [Akis Giannoukos]
+- [Quicksort]
 
 
 
