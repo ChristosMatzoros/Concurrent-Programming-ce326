@@ -21,7 +21,7 @@
   > We implemented an interpreter for a simple programming language that supports basic arithmetic operations between variables, as well as load, store, branch and jump operations.
   > Moreover, we extended the execution environment in order to support multithreading. We also implemented semaphores, so that multiple programs running concurrently can be synchronized.
   > 
-
+<br>
 Created by:
 - [Christos Matzoros]
 - [Akis Giannoukos]
