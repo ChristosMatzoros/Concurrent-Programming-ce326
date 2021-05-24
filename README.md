@@ -5,7 +5,7 @@
     > We implemented a FIFO pipe to be used as a means of communication between two threads
   - Parallel Fractal Computation
     > We parallelized the [Mandelbrot set] fractal algorithm
-  - Parallel Quicksort Algorithm
+  - Parallel [Quicksort] Algorithm
     > We parallelized the Quicksort algorithm
 - Project2
   > We implemented a binary semaphore library using [pthread mutexes]. Then, we used it to achieve thread synchronization in three problems:
@@ -33,6 +33,7 @@ Created by:
    [Concurrent Programming - CE326]: <https://www.e-ce.uth.gr/studies/undergraduate/courses/ece321/?lang=en/>
    [pthread mutexes]: <https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/>
    [pthread conditional variables]: <https://www.geeksforgeeks.org/condition-wait-signal-multi-threading/>
-   [Mandelbrot set]: <https://en.wikipedia.org/wiki/Mandelbrot_set/>
+   [Mandelbrot set]: <https://en.wikipedia.org/wiki/Mandelbrot_set>
+   [Quicksort]: <https://en.wikipedia.org/wiki/Quicksort>
    [Christos Matzoros]: <www.linkedin.com/in/matzoros-christos/>
    [Akis Giannoukos]: <www.linkedin.com/in/akisgiannoukos/>
