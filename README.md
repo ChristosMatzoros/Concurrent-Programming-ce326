@@ -21,13 +21,15 @@
   > We implemented an interpreter for a simple programming language that supports basic arithmetic operations between variables, as well as load, store, branch and jump operations.
   > Moreover, we extended the execution environment in order to support multithreading. We also implemented semaphores, so that multiple programs running concurrently can be synchronized.
   > 
+
 Created by:
-- [Akis Giannoukos]
 - [Christos Matzoros]
+- [Akis Giannoukos]
+
 
 
    [Concurrent Programming - CE326]: <https://www.e-ce.uth.gr/studies/undergraduate/courses/ece321/?lang=en/>
    [pthread mutexes]: <https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/>
    [pthread conditional variables]: <https://www.geeksforgeeks.org/condition-wait-signal-multi-threading/>
-   [Akis Giannoukos]: <www.linkedin.com/in/akisgiannoukos/>
    [Christos Matzoros]: <www.linkedin.com/in/matzoros-christos/>
+   [Akis Giannoukos]: <www.linkedin.com/in/akisgiannoukos/>
